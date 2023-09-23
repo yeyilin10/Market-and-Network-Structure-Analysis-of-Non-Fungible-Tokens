@@ -1,11 +1,11 @@
 # Market-and-Network-Structure-Analysis-of-Non-Fungible-Tokens
 
 
-**Our NFT (Non-Fungible Token) project explores the market and network structure of NFTs, which are cryptographic digital assets tracked on the blockchain. We analyze the characteristics of the NFT market and examine the topological structure of NFT transaction networks. Our research provides valuable insights into the NFT ecosystem and contributes to the understanding of this emerging field.
-**
+Our NFT (Non-Fungible Token) project explores the market and network structure of NFTs, which are cryptographic digital assets tracked on the blockchain. We analyze the characteristics of the NFT market and examine the topological structure of NFT transaction networks. Our research provides valuable insights into the NFT ecosystem and contributes to the understanding of this emerging field.
 
 
-\\
+
+\n
 **The project consists of the following parts:**
 
 Data Processing: This section describes the process of collecting and cleaning the data necessary for the analysis. It outlines the sources of data and the techniques used to ensure data quality and reliability.
